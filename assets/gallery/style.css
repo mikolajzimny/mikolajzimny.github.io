@@ -21,7 +21,7 @@
   top: calc(50% - 32px);
   left: calc(50% - 24px);
   font-family: 'MobiriseIcons' !important;
-  font-size: 1rem !important;
+  font-size: 3rem !important;
   color: #fff;
   opacity: 0;
   transition: .2s opacity ease-in-out;
