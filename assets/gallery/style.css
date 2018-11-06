@@ -21,8 +21,8 @@
   top: calc(50% - 32px);
   left: calc(50% - 24px);
   font-family: 'MobiriseIcons' !important;
-  font-size: 10rem !important;
-  color: #ff0000;
+  font-size: 1rem !important;
+  color: #fff;
   opacity: 0;
   transition: .2s opacity ease-in-out;
   z-index: 5; }
