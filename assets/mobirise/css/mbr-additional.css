@@ -22,10 +22,10 @@ body {
 }
 .display-1 {
   font-family: 'Yeseva One', display;
-  font-size: 4.25rem;
+  font-size: 3.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 5.12rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -62,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.56rem;
+    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1508,10 +1508,18 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-r8zJ8Hx5Z7 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
 .cid-r8nkzLsTNe {
   padding-top: 135px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/1-1-2000x2857.jpg");
+}
+.cid-r8nkzLsTNe H1 {
+  text-align: center;
 }
 .cid-r8zFVgZGkB {
   padding-top: 30px;
@@ -1536,6 +1544,29 @@ body {
 .cid-r8zFVgZGkB .mbr-text,
 .cid-r8zFVgZGkB .mbr-section-btn {
   color: #232323;
+}
+.cid-r8F56yv362 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r8F56yv362 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-r8F56yv362 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-r8F56yv362 .card-box {
+  padding-top: 2rem;
+}
+.cid-r8F56yv362 .card-wrapper {
+  height: 100%;
+}
+.cid-r8F56yv362 P {
+  text-align: left;
 }
 .cid-r8nkCAWI5G {
   padding-top: 0px;
@@ -1599,70 +1630,51 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-r8nkDAM5O9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-r8FofiocZq {
+  padding-top: 75px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-r8nkDAM5O9 .mbr-slider .carousel-control {
-  background: #1b1b1b;
+@media (min-width: 992px) {
+  .cid-r8FofiocZq .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-r8nkDAM5O9 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+@media (max-width: 991px) {
+  .cid-r8FofiocZq .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-r8nkDAM5O9 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+@media (max-width: 767px) {
+  .cid-r8FofiocZq .mbr-text {
+    text-align: center;
+  }
 }
-.cid-r8nkDAM5O9 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
+.cid-r8FofiocZq .mbr-text,
+.cid-r8FofiocZq .mbr-section-btn {
+  color: #232323;
 }
-.cid-r8nkDAM5O9 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+.cid-r8Fogi4741 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-r8nkDAM5O9 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
+@media (min-width: 992px) {
+  .cid-r8Fogi4741 .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-r8nkDAM5O9 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+@media (max-width: 991px) {
+  .cid-r8Fogi4741 .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-r8nkDAM5O9 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
+@media (max-width: 767px) {
+  .cid-r8Fogi4741 .mbr-text {
+    text-align: center;
+  }
 }
-.cid-r8nkDAM5O9 .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-r8zJ8Hx5Z7 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+.cid-r8Fogi4741 .mbr-text,
+.cid-r8Fogi4741 .mbr-section-btn {
+  color: #232323;
 }
