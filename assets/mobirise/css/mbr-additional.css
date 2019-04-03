@@ -1406,6 +1406,46 @@ body {
 .cid-r8zzz1dSyZ .mbr-section-btn {
   color: #232323;
 }
+.cid-rmCkfO8UnO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rmCkfO8UnO .card-img {
+  background-color: #fff;
+}
+.cid-rmCkfO8UnO .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rmCkfO8UnO h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rmCkfO8UnO p {
+  text-align: left;
+}
+.cid-rmCkfO8UnO .mbr-text {
+  color: #767676;
+}
+.cid-rmCkfO8UnO .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rmCkfO8UnO .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rmCkfO8UnO .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-r8nlv2iuDA {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2482,4 +2522,96 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rmCIu8MBse {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/arch-2-2-2000x989.jpg");
+}
+.cid-rmCIu8MBse H1 {
+  text-align: center;
+}
+.cid-rmCIu9s9hX {
+  background-image: url("../../../assets/images/para2-1920x1026.png");
+}
+.cid-rmCIu9s9hX h1 {
+  color: #616161;
+}
+.cid-rmCIu9s9hX h2,
+.cid-rmCIu9s9hX h3,
+.cid-rmCIu9s9hX p {
+  color: #767676;
+}
+.cid-rmCIu9s9hX .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rmCIua7Cjf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rmCIua7Cjf .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rmCIua7Cjf .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rmCIua7Cjf .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rmCIua7Cjf .mbr-text,
+.cid-rmCIua7Cjf .mbr-section-btn {
+  color: #232323;
+}
+.cid-rmCzEIt9Yp {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/arch-1-2-2000x1016.jpg");
+}
+.cid-rmCzEIt9Yp H1 {
+  text-align: center;
+}
+.cid-rmCABnQcq8 {
+  background-image: url("../../../assets/images/para1-1920x1026.png");
+}
+.cid-rmCABnQcq8 h1 {
+  color: #616161;
+}
+.cid-rmCABnQcq8 h2,
+.cid-rmCABnQcq8 h3,
+.cid-rmCABnQcq8 p {
+  color: #767676;
+}
+.cid-rmCABnQcq8 .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rmCB3bEFIu {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rmCB3bEFIu .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rmCB3bEFIu .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rmCB3bEFIu .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rmCB3bEFIu .mbr-text,
+.cid-rmCB3bEFIu .mbr-section-btn {
+  color: #232323;
 }
