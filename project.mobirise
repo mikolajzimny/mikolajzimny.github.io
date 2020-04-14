@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Wiejska.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 105,
+    "uniqCompNum": 106,
     "versionPublish": "4.10.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -2997,7 +2997,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Para1",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3319,7 +3319,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Wnetrza",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
